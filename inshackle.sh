@@ -416,13 +416,13 @@ sleep 5
 
 username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o  'profilePage_[0-9]*.' getid | cut -d "_" -f2 | tr -d '"')
 
-a="48153177286"
-b="48337038819"
-c="35948086258"
-d="48673844181"
-e="37273686882"
-f="39978733161"
 
+selena="48153177286"
+neymar="48337038819"
+ariana="35948086258"
+beyonce="48673844181"
+cristiano="37273686882"
+kimkardashian="39978733161"
 
 
 
