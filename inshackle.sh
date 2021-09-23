@@ -469,8 +469,8 @@ fi
 
 sleep 3
 done
-printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 5 min...\e[0m\n"
-sleep 600
+printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 10 sec ...\e[0m\n"
+sleep 10
 
 
 done
