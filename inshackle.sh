@@ -418,28 +418,8 @@ username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o 
 
 selena="460563723"
 neymar="26669533"
-ariana="7719696"
-beyonce="247944034"
-cristiano="173560420"
-kimkardashian="18428658"
-kendall="6380930"
-therock="232192182"
-kylie="12281817"
-jelopez="305701719"
-messi="427553890"
 
-dualipa="12331195"
-mileycyrus="325734299"
-shawnmendes="212742998"
-katyperry="407964088"
-charlieputh="7555881"
-lelepons="177402262"
-camila_cabello="19596899"
-madonna="181306552"
-leonardodicaprio="1506607755"
-ladygaga="184692323"
-taylorswift="11830955"
-instagram="25025320"
+
 
 
 if [[ ! -e celeb_id ]]; then
