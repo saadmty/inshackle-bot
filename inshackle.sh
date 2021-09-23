@@ -416,7 +416,7 @@ sleep 5
 
 username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o  'profilePage_[0-9]*.' getid | cut -d "_" -f2 | tr -d '"')
 
-selena="460563723"
+selena="44538451014"
 neymar="26669533"
 
 
